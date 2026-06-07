@@ -9,7 +9,7 @@ The application predicts whether a message is **Spam** or **Not Spam** using tra
 ## 🚀 Features
 
 * SMS Spam Detection
-* NLP Text Preprocessing
+* Text Preprocessing
 * TF-IDF Vectorization
 * Real-time Prediction
 * Streamlit Web Interface
@@ -24,7 +24,6 @@ The application predicts whether a message is **Spam** or **Not Spam** using tra
 * Scikit-learn
 * Pandas
 * NumPy
-* NLP
 * TF-IDF
 
 ---
